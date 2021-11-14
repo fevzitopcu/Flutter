@@ -7,7 +7,7 @@ void main() {
           backgroundColor: Colors.blueGrey,
           appBar: AppBar(
             backgroundColor: Colors.blueGrey[900],
-            title: const Text("I Am Rich!"),
+            title: const Text("I Am Rich App!"),
             centerTitle: true,
           ),
           body: const Center(
